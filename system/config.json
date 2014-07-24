@@ -1,0 +1,1 @@
+{"config":{"user":{"color":[153,153,153], "radius":20, "speed":15},"enemy":{"color1":[0,255,0],"color2":[255,0,0], "minRadius":5, "maxRadius":30, "speed":5},"enemyNum":20}}
